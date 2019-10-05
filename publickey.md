@@ -1,26 +1,8 @@
 ---
-layout: page
-title: Contact
-permalink: /contact/
+title: Public Key
 ---
-**USPS mailing address**  
 
-SOFTWARE RESEARCH LLC  
-74 SHUTE RD  
-LAFAYETTE, NY 13084-9785  
-U.S.A.  
-  
-**Email inquiries**: <info@srllc.org>  
-  
-**Voice**: +1-315-288-3965.  
-
-**Fax**: We do not accept service of documents by facsimile transmission;  
-please send them via physical mail or email them securely instead.
-   
-
-**Encryption and proof of authorship**
-
-Murray's public [PGP key][]:
+[PGP key][]
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
