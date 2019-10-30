@@ -6,3 +6,7 @@
   link: /contact/
   new_window: false
   highlight: false
+- name: Terms of Service
+  link: /tos/
+  new_window: false
+  highlight: false
