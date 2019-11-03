@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SRLLC's Terms of Service
+title: SRLLC's Facetious Terms of Service
 permalink: /tos/
 ---
 
