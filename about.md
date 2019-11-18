@@ -3,7 +3,7 @@ layout: page
 title: Software Research LLC
 permalink: /about/
 ---
-SRLLC is a privately owned technology company that specializes in machine learning, crowdsourcing, and custom software solutions.  
+SRLLC is a privately owned technology company that specializes in deep learning, crowdsourcing, and custom software solutions.  
 
 The owner, Murray Miron, is always happy to answer questions or offer occasional advice free of charge (he does enjoy what he does, after all);
 more involved projects are assessed on a case by case basis.  Feel free to reach out!
