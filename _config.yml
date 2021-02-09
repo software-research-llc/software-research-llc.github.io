@@ -4,10 +4,7 @@
 title: Software Research LLC
 email: info@srllc.org
 description: >- # this means to ignore newlines until "baseurl:"
-    Software Research LLC has written software for the U.S. Department of
-    Health and Human Services, the U.S. Office of the Director of National
-    Intelligence, and the U.S. National Institute of Justice.  We specialize
-    in deep learning and custom software solutions.
+  SRLLC is a privately owned custom software company.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.srllc.org" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: none
@@ -67,6 +64,11 @@ defaults:
   -
     scope:
       path: "contact.html"
+    values:
+      full_width: true
+  -
+    scope:
+      path: "forms_mis772_3.pdf"
     values:
       full_width: true
 
