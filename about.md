@@ -10,7 +10,7 @@ more involved projects are assessed on a case by case basis.  Feel free to <a hr
 
 Our logo was designed by a machine learning algorithm, and hosting for the site is provided by Github; if you'd like to look us up, the company [DUNS number][] is 117084578 and our [CAGE code][] is 8C0H3.
 
-SRLLC received a PPP loan, and in holding to our agreement, please see the non-discrimination notice [here][].
+Please see our non-discrimination notice [here][].
 
 [here]: /forms_mis772_3.pdf
 [DUNS number]: https://en.wikipedia.org/wiki/Data_Universal_Numbering_System "Data Universal Numbering System"
