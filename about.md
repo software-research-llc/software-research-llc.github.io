@@ -8,8 +8,6 @@ SRLLC is a privately owned technology company based in New York that specializes
 The owner, Murray Miron, is always happy to answer questions or offer occasional advice free of charge;
 more involved projects are assessed on a case by case basis.  Feel free to <a href="mailto:info@srllc.org">reach out!</a>
 
-Our logo was designed by a machine learning algorithm, and hosting for the site is provided by Github; if you'd like to look us up, the company [DUNS number][] is 117084578 and our [CAGE code][] is 8C0H3.
-
 Please see our non-discrimination notice [here][].
 
 [here]: /forms_mis772_3.pdf
