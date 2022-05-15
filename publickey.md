@@ -2,7 +2,7 @@
 title: Public Key
 ---
 
-[PGP key][]
+Murray's [PGP key][] ([armored plaintext][] / [binary file][])
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -59,4 +59,6 @@ agYju3nzeUuZpk+k4tR++Nhq42395X9hrFUyJGO3CWGot/obuEcOAM+i1A==
 ```
 
 
+[armored plaintext]: /mmiron.asc
+[binary file]: /mmiron.gpg
 [PGP key]: https://en.wikipedia.org/wiki/Pretty_Good_Privacy "Pretty Good Privacy"
