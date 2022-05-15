@@ -69,7 +69,8 @@ bgq0+Zs6BWM45+Kwcj/TG/13R2ZUi62mG2vaBjNVNuhsx/wTmRE1U6kDZdz78A4r
 gPdbY6yARb/liXEdWO0ArDuEo2f/v3xQfGoGI7t583lLmaZPpOLUfvjYauNt/eV/
 YaxVMiRjtwlhqLf6G7hHDgDPotQ=
 =I8Ez
------END PGP PUBLIC KEY BLOCK-----```
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 
 [armored plaintext]: /mmiron.asc
