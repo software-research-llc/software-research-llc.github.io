@@ -1,4 +1,4 @@
-- name: About
+- name: About blurb
   link: /about/
   new_window: false
   highlight: false
