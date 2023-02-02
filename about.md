@@ -10,6 +10,8 @@ more involved projects are assessed on a case by case basis.  Feel free to <a hr
 
 If you'd like an example of the sorts of information that are being collected about you right now -- since SRLLC is not an information broker and believes that an informed populace makes more prudent decisions -- please see the unrelated site <a href="https://www.mirror.co/privacy-policy">lululemon athletica inc.</a> as an excellent example of the tech industry in general, and the direction we're continuing to go in.  SRLLC credits them for, if nothing else, the disclosures that many or most refuse to make public.  We have no affiliation with said business entity and receive no compensation for clicking the aforementioned link.  The data breaches that take place daily are rendered moot when it's part of their business model; at least lululemon is uncommonly forthcoming about it.
 
+N.B. SRLLC is structured so that any data, from any source, begins and ends with us.  We protect what they profit from.
+
 Additionally, please see our non-discrimination notice [here][].  Please also note that our organization is not bound by regulating the entirety of the U.S. population, and as such, we consider any trait of any entity that is not relevant to the performance of their duties, to be irrelevant.
 
 [here]: /forms_mis772_3.pdf
