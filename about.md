@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software Research LLC
+title: About
 permalink: /about/
 ---
 SRLLC is a privately owned technology company based in New York that specializes in machine learning, particularly deep learning (unusually complex artificial neural networks).
