@@ -1,8 +1,6 @@
 - links:
   - name: About
     link: /about/
+- links:
   - name: Contact
     link: /contact/
-- links:
-  - name: PGP Key
-    link: /publickey/
