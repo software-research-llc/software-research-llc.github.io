@@ -10,8 +10,8 @@
   link: /whitepapers/
   new_window: false
   highlight: false
-- name: Github
-  link: https://github.com/mtmiron
+- name: Messager
+  link: /messager/
   new_window: false
   highlight: false
 - name: Contact
