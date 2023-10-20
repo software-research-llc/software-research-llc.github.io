@@ -6,12 +6,12 @@
   link: /about/
   new_window: false
   highlight: false
-- name: Whitepapers
-  link: /whitepapers/
-  new_window: false
-  highlight: false
 - name: Messager
   link: /messager/
+  new_window: false
+  highlight: false
+- name: Whitepapers
+  link: /whitepapers/
   new_window: false
   highlight: false
 - name: Contact
