@@ -16,4 +16,5 @@ permalink: /messager/
 - While we do no filtering whatsoever based on message content, the mobile providers that we are registered with do. Be aware of it: it's beyond our control.
 - Sending nothing but a ? (a single character question mark) will offer some usage information.
 
-<section><div class="image"><img src="{{site.baseurl}}/images/screenshot-messager.png" alt="messager screenshot" class="editable"/></div></section>
+<section><div class="image"><img src="{{site.baseurl}}/images/screenshot-messager01.jpg" alt="messager screenshot" class="editable"/></div></section>
+<section><div class="image"><img src="{{site.baseurl}}/images/screenshot-messager02.png" alt="messager screenshot" class="editable"/></div></section>
