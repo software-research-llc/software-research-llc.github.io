@@ -4,9 +4,9 @@ title: The SRLLC Messager at (315) 757-4475
 permalink: /products/
 ---
 
-<big>SRLLC has a program responding to SMS messages (mobile text messages). It can chat with you, offer advice on how to make low calorie meals, discuss our company, and even write code snippets. It's available at (315) 757-4475 free of charge.
+<p>SRLLC has a program responding to SMS messages (mobile text messages). It's available free of charge at +1-315-757-4475; however, in order to ensure compliance with all possible foreign laws and regulations, responses will only be sent to the continental United States.</p>
 
-<p><h3>Note: if you are not considered an adult in your geographic region, please <i>do not</i> use our service (or, should you do so anyway, you agree to indemnify us against any and all liability for your fraudulently representing yourself as something that you are not).</h3></p>
+<p><h3>Note: if you are not considered an adult in your geographic region, please consider <i>this request to not use our service as a minor</i> to be age-gating for regulatory purposes.</h3></p>
 
 
 <u>Miscellanea:</u>
