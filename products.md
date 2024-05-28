@@ -4,7 +4,7 @@ title: The SRLLC Messager at (315) 757-4475
 permalink: /products/
 ---
 
-<p>SRLLC has a program responding to SMS messages (mobile text messages). It's available free of charge at +1-315-757-4475; however, in order to ensure compliance with all possible foreign laws and regulations, responses will only be sent to the continental United States.</p>
+<p>SRLLC has a program responding to SMS messages (mobile text messages). It's available free of charge at <a href="sms:+13157574475?&body=Hello">+1-315-757-4475</a>; however, in order to ensure compliance with all possible foreign laws and regulations, responses will only be sent to the continental United States.</p>
 
 <p><h3>Note: if you are not considered an adult in your geographic region, please consider <i>this request to not use our service as a minor</i> to be age-gating for regulatory purposes.</h3></p>
 
