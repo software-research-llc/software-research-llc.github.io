@@ -12,6 +12,8 @@ If you'd like to see some of our internally used source code and other miscellan
 
 Please see our non-discrimination notice [here][].  Please also note that our organization is not bound by regulating the entirety of the U.S. population, and as such, we consider any trait of any entity that is not relevant to the performance of their duties, to be irrelevant.
 
+In the interests of accurate communication, it's also necessary to state that the aforementioned policy is not to be taken as endorsing or condoning behaviors that interfere with the positive working environment of any member, client, or other related party; for example, we comply with NY State Labor Law section 201-G (prevention of sexual harassment.)
+
 [here]: /forms_mis772_3.pdf
 [DUNS number]: https://en.wikipedia.org/wiki/Data_Universal_Numbering_System "Data Universal Numbering System"
 [SAM]: https://sam.gov "System for Award Management"
