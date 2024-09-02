@@ -16,6 +16,7 @@ permalink: /products/
 - While we do no filtering whatsoever based on message content, the mobile providers that we are registered with do. Be aware of it: it's beyond our control.
 - Responses are limited to a maximum of 1600 characters (ten message segments).
 - Sending nothing but a ? (a single character question mark) will offer some usage information.
+- As has become the standard with automated SMS services, you can opt-out of receiving generated content with the STOP command or receive carrier-provided usage with the HELP command.
 - Yes, it's "messager," not "messenger." We just didn't feel that it was accurate to use the same word for it as one that implies a carrier of official, deliberate information. It's quite an impressive program, but please don't use it to represent our company in documents that end up filed with a court.
 
 <section><div class="image"><img src="{{site.baseurl}}/images/screenshot-messager01.jpg" alt="messager screenshot" class="editable"/></div></section>
