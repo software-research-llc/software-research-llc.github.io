@@ -1,8 +1,13 @@
 ---
 layout: page
-title: The SRLLC Messager at (315) 757-4475
+title: The SRLLC Messager and Godspeed Racing
 permalink: /products/
 ---
+
+
+<section class="hero"><div class="text-container"><img src="{{site.baseurl}}/images/godspeed-logo-circuit.png" alt="Godspeed Racing Circuit Board" class="editable"/><h1><center><p>We're partnering with <a href="https://shop.srllc.org">Godspeed Racing</a> to add our AI to their commercial products in the near future.</p></center></h1></div></section>
+<br><br>
+<p/>
 
 <p>SRLLC has a program responding to SMS messages (mobile text messages). It's available free of charge at <a href="sms:+13157574475?&body=Hello">+1-315-757-4475</a>; however, in order to ensure compliance with all possible foreign laws and regulations, responses will only be sent to the continental United States.</p>
 
@@ -18,6 +23,6 @@ permalink: /products/
 - Sending nothing but a ? (a single character question mark) will offer some usage information.
 - As has become the standard with automated SMS services, you can opt-out of receiving generated content with the STOP command or receive carrier-provided usage with the HELP command.
 - Yes, it's "messager," not "messenger." We just didn't feel that it was accurate to use the same word for it as one that implies a carrier of official, deliberate information. It's quite an impressive program, but please don't use it to represent our company in documents that end up filed with a court.
-
 <section><div class="image"><img src="{{site.baseurl}}/images/screenshot-messager01.jpg" alt="messager screenshot" class="editable"/></div></section>
 <!--<section><div class="image"><img src="{{site.baseurl}}/images/screenshot-messager02.png" alt="messager screenshot" class="editable"/></div></section>-->
+
