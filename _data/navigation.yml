@@ -6,14 +6,6 @@
   link: /about/
   new_window: false
   highlight: false
-- name: Products
-  link: /products/
-  new_window: false
-  highlight: false
-- name: Whitepapers
-  link: /whitepapers/
-  new_window: false
-  highlight: false
 - name: Contact
   link: /contact/
   new_window: false
