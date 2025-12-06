@@ -1,13 +1,8 @@
 ---
 layout: page
-title: The SRLLC Messager and Godspeed Racing
+title: The SRLLC Messager
 permalink: /products/
 ---
-
-
-<section class="hero"><div class="text-container"><img src="{{site.baseurl}}/images/godspeed-logo-circuit.png" alt="Godspeed Racing Circuit Board" class="editable"/><h1><center><p>We're partnering with <a href="https://shop.srllc.org">Godspeed Racing</a> to add our AI to their commercial products in the near future.</p></center></h1></div></section>
-<br><br>
-<p/>
 
 <p>SRLLC has a program responding to SMS messages (mobile text messages). It's available free of charge at <a href="sms:+13157574475?&body=Hello">+1-315-757-4475</a>; however, in order to ensure compliance with all possible foreign laws and regulations, responses will only be sent to the continental United States.</p>
 
