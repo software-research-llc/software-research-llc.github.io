@@ -10,6 +10,8 @@ more involved projects are assessed on a case by case basis.  Feel free to <a hr
 
 Please see our non-discrimination notice [here][].
 
+Mr. Miron hesitantly admits to being fond of aphorisms (or epigrams, depending on interpretation); with <3 are offered the most recent and poignant ones that he's encountered <a href="/epigrams/">here,</a> and <a href="/aphorisms/">here.</a>
+
 [here]: /forms_mis772_3.pdf
 [DUNS number]: https://en.wikipedia.org/wiki/Data_Universal_Numbering_System "Data Universal Numbering System"
 [SAM]: https://sam.gov "System for Award Management"
