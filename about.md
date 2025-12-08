@@ -3,7 +3,7 @@ layout: page
 title: About SRLLC
 permalink: /about/
 ---
-SRLLC is a privately owned technology company based in New York that specializes in machine learning, particularly deep learning (unusually complex artificial neural networks).
+SRLLC is a privately owned technology company based in New York that specializes in machine learning, particularly deep learning (what used to be ``unusually'' complex artificial neural networks).
 
 The owner, Murray Miron, is always happy to answer questions or offer occasional advice free of charge;
 more involved projects are assessed on a case by case basis.  Feel free to <a href="mailto:info@srllc.org">reach out!</a>
